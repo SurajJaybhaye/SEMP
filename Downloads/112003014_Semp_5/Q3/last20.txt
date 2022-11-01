@@ -1,0 +1,11 @@
+total 4.0M
+-rw-rw-r-- 1 student1 student1  2.1M Sep 27 06:32 sample-2mb-text-file.txt
+-rw-rw-r-- 1 student1 student1 1000K Sep 27 06:34 SampleTextFile_1000kb.txt
+-rw-rw-r-- 1 student1 student1  500K Sep 27 06:34 SampleTextFile_500kb.txt
+-rw-rw-r-- 1 student1 student1  200K Sep 27 06:34 SampleTextFile_200kb.txt
+-rw-rw-r-- 1 student1 student1  100K Sep 27 06:34 SampleTextFile_100kb.txt
+-rw-rw-r-- 1 student1 student1   50K Sep 27 06:34 SampleTextFile_50kb.txt
+-rw-rw-r-- 1 student1 student1   20K Sep 27 06:34 SampleTextFile_20kb.txt
+-rw-rw-r-- 1 student1 student1  9.3K Sep 27 06:34 SampleTextFile_10kb.txt
+-rw-rw-r-- 1 student1 student1   448 Sep 27 06:32 sample-text-file.txt
+-rwxrwxr-x 1 student1 student1    97 Sep 27 07:06 A1_3.sh

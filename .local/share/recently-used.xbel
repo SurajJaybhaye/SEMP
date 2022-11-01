@@ -1,0 +1,3256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/suraj/Desktop/a1.c" added="2021-12-28T09:01:58Z" modified="2021-12-28T10:36:49Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-12-28T10:36:49Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/a2.c" added="2021-12-28T09:28:05Z" modified="2021-12-28T10:39:05Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-12-28T10:39:05Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/a4.c" added="2021-12-28T17:16:04Z" modified="2021-12-28T17:16:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-12-28T17:16:38Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/c/a" added="2021-12-28T17:19:13Z" modified="2021-12-28T17:32:36Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-12-28T17:32:36Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/c/a1.c" added="2021-12-28T17:22:04Z" modified="2022-06-24T05:14:35Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-06-24T05:14:34Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T05:14:35Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/c/a2.c" added="2021-12-28T17:22:23Z" modified="2022-06-24T05:14:49Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T05:14:49Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-06-24T05:14:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/c/a2.h" added="2021-12-28T17:32:57Z" modified="2022-06-24T05:14:59Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T05:14:59Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-06-24T05:14:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/c/a4.c" added="2021-12-29T18:19:14Z" modified="2022-06-24T05:04:46Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T05:04:46Z" count="7"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-06-24T05:04:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/polynomial1.c" added="2022-01-04T16:33:39Z" modified="2022-01-04T17:05:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-04T16:33:39Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-01-04T17:05:20Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/main.c" added="2022-01-04T16:33:49Z" modified="2022-01-04T16:48:14Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-04T16:33:49Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-01-04T16:48:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/polynomial1.h" added="2022-01-04T16:33:57Z" modified="2022-01-04T16:48:48Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-04T16:33:57Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-01-04T16:35:43Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-01-04T16:48:48Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/header.h" added="2022-01-04T16:49:00Z" modified="2022-01-04T16:49:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-01-04T16:49:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Dsa%20Assignment%204.tar.xz" added="2022-01-04T18:38:47Z" modified="2022-01-04T18:38:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-04T18:38:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/c/sample1.c" added="2022-01-07T19:31:58Z" modified="2022-06-24T04:56:10Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-06-24T04:56:09Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T04:56:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/m.c" added="2022-01-07T19:37:14Z" modified="2022-01-07T19:37:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-07T19:37:14Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-01-07T19:37:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/m(1).c" added="2022-01-07T19:37:21Z" modified="2022-01-07T19:37:21Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-07T19:37:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/DSA_Assignment1.c" added="2022-01-08T07:58:18Z" modified="2022-01-08T08:22:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-01-08T07:58:18Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-01-08T07:58:47Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-01-08T08:22:26Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/randomselect.c" added="2022-02-07T17:32:16Z" modified="2022-02-07T17:32:16Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-07T17:32:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/randombub.c" added="2022-02-07T17:32:21Z" modified="2022-02-07T17:32:21Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-07T17:32:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/random.c" added="2022-02-07T17:32:25Z" modified="2022-02-09T09:45:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-07T17:32:25Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-09T09:42:59Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-09T09:45:40Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/assignment%206.tar.xz" added="2022-02-07T17:34:08Z" modified="2022-02-07T17:37:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-07T17:37:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/randomselect%20(1).c" added="2022-02-09T06:45:32Z" modified="2022-02-09T07:02:16Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-09T06:45:32Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-09T06:45:57Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-09T07:02:16Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/randombub%20(1).c" added="2022-02-09T06:45:36Z" modified="2022-02-09T07:02:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-09T06:45:36Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-09T07:02:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/random%20(1).c" added="2022-02-09T06:45:43Z" modified="2022-02-09T07:02:09Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-09T06:45:43Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-09T07:02:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2012-27-16.png" added="2022-02-10T06:57:16Z" modified="2022-02-10T06:58:15Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T06:57:16Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-10T06:58:14Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-02-10T06:58:15Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2012-27-56.png" added="2022-02-10T06:57:56Z" modified="2022-02-10T06:58:03Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T06:57:56Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-10T06:58:02Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-02-10T06:58:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/file1.txt" added="2022-02-10T06:59:48Z" modified="2022-02-10T07:30:05Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T07:30:05Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/file2.txt" added="2022-02-10T07:01:32Z" modified="2022-02-10T07:01:33Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T07:01:33Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/file3.txt" added="2022-02-10T07:02:00Z" modified="2022-02-10T07:27:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T07:27:52Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/newfile.txt" added="2022-02-10T07:03:51Z" modified="2022-02-10T07:19:56Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T07:03:51Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-10T07:19:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/file5.txt" added="2022-02-10T07:10:57Z" modified="2022-02-10T07:10:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T07:10:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2012-44-04.png" added="2022-02-10T07:14:04Z" modified="2022-02-11T18:49:48Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:14:04Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-11T18:49:47Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-02-11T18:49:48Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2012-47-08.png" added="2022-02-10T07:17:08Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:17:08Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2012-47-48.png" added="2022-02-10T07:17:48Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:17:48Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2012-51-59.png" added="2022-02-10T07:21:59Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:21:59Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2012-55-07.png" added="2022-02-10T07:25:07Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:25:07Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2012-56-58.png" added="2022-02-10T07:26:58Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:26:58Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2012-58-36.png" added="2022-02-10T07:28:36Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:28:36Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2012-59-47.png" added="2022-02-10T07:29:47Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:29:47Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-00-54.png" added="2022-02-10T07:30:54Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:30:54Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-02-16.png" added="2022-02-10T07:32:16Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:32:16Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-02-56.png" added="2022-02-10T07:32:56Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:32:56Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-06-38.png" added="2022-02-10T07:36:38Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:36:38Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-07-29.png" added="2022-02-10T07:37:29Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:37:29Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-09-49.png" added="2022-02-10T07:39:49Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:39:49Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-10-05.png" added="2022-02-10T07:40:05Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:40:05Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-11-02.png" added="2022-02-10T07:41:02Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:41:02Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-11-25.png" added="2022-02-10T07:41:25Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:41:25Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-12-36.png" added="2022-02-10T07:42:36Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:42:36Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-14-27.png" added="2022-02-10T07:44:27Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:44:27Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-16-14.png" added="2022-02-10T07:46:14Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:46:14Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-19-41.png" added="2022-02-10T07:49:41Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:49:41Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-21-22.png" added="2022-02-10T07:51:22Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:51:22Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-23-15.png" added="2022-02-10T07:53:15Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:53:15Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-24-03.png" added="2022-02-10T07:54:04Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:54:04Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2013-26-42.png" added="2022-02-10T07:56:43Z" modified="2022-02-10T08:00:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T07:56:43Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:00:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/Q1.txt" added="2022-02-10T08:24:51Z" modified="2022-02-10T08:27:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T08:27:40Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-10T08:26:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/Q2" added="2022-02-10T08:28:13Z" modified="2022-02-10T08:30:10Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T08:30:10Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/Q1" added="2022-02-10T08:29:30Z" modified="2022-02-10T08:29:30Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T08:29:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/Q3" added="2022-02-10T08:31:25Z" modified="2022-02-10T08:31:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T08:31:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/Q4" added="2022-02-10T08:32:21Z" modified="2022-02-10T08:32:22Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T08:32:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/Q5" added="2022-02-10T08:33:18Z" modified="2022-02-10T08:33:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T08:33:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/Q6" added="2022-02-10T08:35:59Z" modified="2022-02-10T08:35:59Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T08:35:59Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/Q7" added="2022-02-10T08:36:39Z" modified="2022-02-10T08:43:34Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-10T08:43:34Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2014-07-53.png" added="2022-02-10T08:37:53Z" modified="2022-02-10T08:46:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T08:37:53Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-10T08:38:06Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-02-10T08:38:07Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:46:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2014-10-09.png" added="2022-02-10T08:40:09Z" modified="2022-02-10T08:46:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T08:40:09Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:46:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2014-10-47.png" added="2022-02-10T08:40:47Z" modified="2022-02-10T08:46:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T08:40:47Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:46:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2014-11-12.png" added="2022-02-10T08:41:12Z" modified="2022-02-10T08:46:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T08:41:12Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:46:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2014-12-05.png" added="2022-02-10T08:42:05Z" modified="2022-02-10T08:46:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T08:42:05Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:46:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2014-12-45.png" added="2022-02-10T08:42:45Z" modified="2022-02-10T08:46:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T08:42:45Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:46:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%2014-13-53.png" added="2022-02-10T08:43:53Z" modified="2022-02-10T08:46:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-10T08:43:53Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:46:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Smallpdf_2022-02-10.pdf" added="2022-02-10T08:48:08Z" modified="2022-02-10T08:48:08Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-10T08:48:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-10%201.zip" added="2022-02-11T19:26:57Z" modified="2022-02-11T19:27:32Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-02-11T19:26:57Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-02-11T19:26:58Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T19:27:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2001-42-10.png" added="2022-02-11T20:12:10Z" modified="2022-02-11T20:13:16Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T20:12:10Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T20:13:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2001-42-23.png" added="2022-02-11T20:12:23Z" modified="2022-02-11T20:13:16Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T20:12:23Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T20:13:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/DTL/file4.txt" added="2022-02-11T20:25:41Z" modified="2022-02-11T20:27:35Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-02-11T20:27:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2001-58-40.png" added="2022-02-11T20:28:40Z" modified="2022-09-26T19:31:59Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T20:28:40Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T20:29:25Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-26T19:31:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2002-05-06.png" added="2022-02-11T20:35:06Z" modified="2022-02-11T20:35:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T20:35:06Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T20:35:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2002-16-49.png" added="2022-02-11T20:46:49Z" modified="2022-09-26T19:31:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T20:46:49Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T20:47:23Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-26T19:31:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2002-21-40.png" added="2022-02-11T20:51:40Z" modified="2022-02-11T20:52:10Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T20:51:40Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T20:52:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2002-27-20.png" added="2022-02-11T20:57:20Z" modified="2022-02-11T20:58:22Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T20:57:20Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T20:58:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2002-27-25.png" added="2022-02-11T20:57:25Z" modified="2022-02-11T20:58:22Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T20:57:25Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T20:58:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2002-35-03.png" added="2022-02-11T21:05:03Z" modified="2022-02-11T21:06:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T21:05:03Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T21:06:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2002-36-09.png" added="2022-02-11T21:06:09Z" modified="2022-02-11T21:06:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T21:06:09Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T21:06:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2002-43-45.png" added="2022-02-11T21:13:45Z" modified="2022-02-11T21:14:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T21:13:45Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T21:14:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2002-55-51.png" added="2022-02-11T21:25:51Z" modified="2022-02-11T21:26:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T21:25:51Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T21:26:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2002-56-19.png" added="2022-02-11T21:26:19Z" modified="2022-02-11T21:26:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-11T21:26:19Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-11T21:26:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2010-20-40.png" added="2022-02-12T04:50:41Z" modified="2022-02-12T04:50:41Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-12T04:50:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2010-21-28.png" added="2022-02-12T04:51:29Z" modified="2022-02-12T05:24:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-12T04:51:29Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T05:24:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2010-21-45.png" added="2022-02-12T04:51:45Z" modified="2022-02-12T05:24:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-12T04:51:45Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T05:24:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2010-24-09.png" added="2022-02-12T04:54:09Z" modified="2022-02-12T05:24:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-12T04:54:09Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T05:24:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2010-26-42.png" added="2022-02-12T04:56:42Z" modified="2022-02-12T05:24:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-12T04:56:42Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T05:24:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2010-27-55.png" added="2022-02-12T04:57:55Z" modified="2022-02-12T05:24:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-12T04:57:55Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T05:24:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2010-32-27.png" added="2022-02-12T05:02:27Z" modified="2022-02-12T05:24:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-12T05:02:27Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T05:24:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2010-34-29.png" added="2022-02-12T05:04:29Z" modified="2022-02-12T05:24:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-12T05:04:29Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T05:24:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2010-44-55.png" added="2022-02-12T05:14:56Z" modified="2022-02-12T05:24:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-12T05:14:56Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T05:24:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-02-12%2010-47-20.png" added="2022-02-12T05:17:20Z" modified="2022-02-12T05:24:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-02-12T05:17:20Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-02-12T05:24:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-04-30%2022-45-35.png" added="2022-04-30T17:15:36Z" modified="2022-04-30T17:15:36Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-04-30T17:15:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-04-30%2022-49-49.png" added="2022-04-30T17:19:50Z" modified="2022-04-30T17:19:50Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-04-30T17:19:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-04-30%2022-51-33.png" added="2022-04-30T17:21:34Z" modified="2022-04-30T17:21:34Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-04-30T17:21:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_suraj0/DSAII.zip" added="2022-06-24T04:40:52Z" modified="2022-06-24T04:41:33Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-06-24T04:40:52Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-06-24T04:41:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-kSWArN/A1/BST.c" added="2022-06-24T04:41:49Z" modified="2022-06-24T04:41:49Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T04:41:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-mL9xgL/A1/BST.c" added="2022-06-24T04:45:55Z" modified="2022-06-24T04:45:55Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T04:45:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/c/sample.c" added="2022-06-24T04:48:54Z" modified="2022-06-24T04:48:54Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T04:48:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/DSAII.zip" added="2022-06-24T05:27:56Z" modified="2022-06-24T05:44:58Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-06-24T05:27:56Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-06-24T05:44:57Z" count="4"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-06-24T05:44:58Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-u7RLX2/A1/main.c" added="2022-06-24T05:28:27Z" modified="2022-06-24T05:28:27Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T05:28:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-awXYE5/A1/main.c" added="2022-06-24T05:29:42Z" modified="2022-06-24T05:29:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T05:29:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/c/Untitled%20Document%201" added="2022-06-24T05:30:33Z" modified="2022-06-24T05:30:49Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T05:30:49Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/c/suraj" added="2022-06-24T05:31:05Z" modified="2022-06-24T05:31:05Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-06-24T05:31:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/c/main.c" added="2022-06-24T05:31:36Z" modified="2022-06-24T05:44:15Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T05:44:15Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-06-24T05:44:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-34r2Zn/A1/BST.h" added="2022-06-24T05:38:43Z" modified="2022-06-24T05:38:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T05:38:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/c/BST.h" added="2022-06-24T05:39:35Z" modified="2022-06-24T05:39:35Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T05:39:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-O19Ngd/A1/main.c" added="2022-06-24T05:45:12Z" modified="2022-06-24T05:45:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-06-24T05:45:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2014-58-51.png" added="2022-09-01T09:28:51Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:28:51Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-01T10:12:58Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-01T09:29:04Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-00-13.png" added="2022-09-01T09:30:13Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:30:13Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-02-41.png" added="2022-09-01T09:32:41Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:32:41Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-03-49.png" added="2022-09-01T09:33:49Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:33:49Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-04-32.png" added="2022-09-01T09:34:32Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:34:32Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-08-29.png" added="2022-09-01T09:38:29Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:38:29Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-09-48.png" added="2022-09-01T09:39:48Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:39:48Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-12-07.png" added="2022-09-01T09:42:07Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:42:07Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-12-53.png" added="2022-09-01T09:42:54Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:42:54Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-13-14.png" added="2022-09-01T09:43:14Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:43:14Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-16-31.png" added="2022-09-01T09:46:31Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:46:31Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-16-50.png" added="2022-09-01T09:46:50Z" modified="2022-09-26T19:32:11Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:46:50Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-26T19:32:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-17-22.png" added="2022-09-01T09:47:22Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:47:22Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-20-42.png" added="2022-09-01T09:50:42Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:50:42Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-23-25.png" added="2022-09-01T09:53:25Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:53:25Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-24-58.png" added="2022-09-01T09:54:58Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:54:58Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-01T09:56:35Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-26-45.png" added="2022-09-01T09:56:45Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:56:45Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-28-51.png" added="2022-09-01T09:58:51Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T09:58:51Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-30-27.png" added="2022-09-01T10:00:27Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T10:00:27Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-01%2015-39-22.png" added="2022-09-01T10:09:22Z" modified="2022-09-01T10:13:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-01T10:09:22Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-01T10:13:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/assignment_1%20(1).odt" added="2022-09-04T17:10:33Z" modified="2022-09-04T17:18:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-04T17:10:33Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-04T17:10:41Z" count="1"/>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2022-09-04T17:18:53Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Dbms" added="2022-09-04T17:18:53Z" modified="2022-09-04T17:18:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2022-09-04T17:18:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Dbms.odt" added="2022-09-04T17:18:54Z" modified="2022-09-04T17:21:07Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2022-09-04T17:18:54Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-04T17:21:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003055%20Div.1-Suraj%20Jaybhaye.odt" added="2022-09-04T17:22:02Z" modified="2022-09-04T17:22:28Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-04T17:22:02Z" count="1"/>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2022-09-04T17:22:28Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003077_Div1_T5_Assignment3_SEMP.zip" added="2022-09-07T18:05:40Z" modified="2022-09-07T18:05:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-07T18:05:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003077_Div1_T5_Assignment3_SEMP/Assignment_sem3/prog-8.sh" added="2022-09-07T18:06:41Z" modified="2022-09-07T18:06:41Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-07T18:06:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003077_Div1_T5_Assignment3_SEMP/Assignment_sem3/temp.txt" added="2022-09-07T18:07:31Z" modified="2022-09-07T18:07:32Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-07T18:07:31Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-07T18:07:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003077_Div1_T5_Assignment3_SEMP/Assignment_sem3/prog-9.txt" added="2022-09-07T18:08:00Z" modified="2022-09-07T18:08:01Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-07T18:08:00Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-07T18:08:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003077_Div1_T5_Assignment3_SEMP/Assignment_sem3/Screenshot-8.png" added="2022-09-07T18:09:45Z" modified="2022-09-26T19:35:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-26T19:35:12Z" count="5"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-26T19:30:58Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/Sh/prog-8.sh" added="2022-09-07T18:10:52Z" modified="2022-09-07T18:10:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2022-09-07T18:10:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-07%2023-45-12.png" added="2022-09-07T18:15:12Z" modified="2022-09-07T18:15:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-07T18:15:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003077_Div1_T5_Assignment3_SEMP/Assignment_sem3/Screenshot-9.png" added="2022-09-07T18:16:57Z" modified="2022-09-07T18:16:58Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-07T18:16:57Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-07T18:16:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-07%2023-47-50.png" added="2022-09-07T18:17:50Z" modified="2022-09-07T18:17:50Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-07T18:17:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003077_Div1_T5_Assignment3_SEMP/Assignment_sem3/Screenshot-10.png" added="2022-09-07T18:18:21Z" modified="2022-09-26T19:37:02Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-26T19:37:02Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-26T19:37:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-07%2023-48-43.png" added="2022-09-07T18:18:43Z" modified="2022-09-26T19:29:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-07T18:18:43Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-26T19:29:53Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-26T19:29:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003077_Div1_T5_Assignment3_SEMP/Assignment_sem3/Screenshot-11.png" added="2022-09-07T18:19:43Z" modified="2022-09-07T18:19:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-07T18:19:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-07%2023-50-12.png" added="2022-09-07T18:20:12Z" modified="2022-09-07T18:20:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-07T18:20:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003077_Div1_T5_Assignment3_SEMP/Assignment_sem3/Screenshot-12.png" added="2022-09-07T18:20:35Z" modified="2022-09-07T18:20:35Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-07T18:20:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-07%2023-51-16.png" added="2022-09-07T18:21:17Z" modified="2022-09-07T18:21:17Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-07T18:21:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003077_Div1_T5_Assignment3_SEMP/Assignment_sem3/Screenshot-13.png" added="2022-09-07T18:21:25Z" modified="2022-09-26T19:35:17Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-26T19:35:17Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-26T19:35:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-09-07%2023-52-14.png" added="2022-09-07T18:22:14Z" modified="2022-09-07T18:22:14Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-09-07T18:22:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/Sh/Screenshot%20from%202022-09-07%2023-45-12.png" added="2022-09-07T18:23:03Z" modified="2022-09-26T19:30:22Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-09-26T19:30:22Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-26T19:30:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/Sh/t.zip" added="2022-09-07T18:25:29Z" modified="2022-09-07T18:25:29Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-07T18:25:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Q3.sh" added="2022-09-11T16:12:25Z" modified="2022-09-11T16:12:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-11T16:12:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Q5.sh" added="2022-09-11T16:12:29Z" modified="2022-09-11T16:12:29Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-11T16:12:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Q4.sh" added="2022-09-11T16:12:33Z" modified="2022-09-11T16:12:33Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-11T16:12:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Q1.sh" added="2022-09-11T16:12:48Z" modified="2022-09-11T16:20:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-11T16:12:48Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-11T16:20:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Q2.sh" added="2022-09-11T16:12:58Z" modified="2022-09-11T16:12:58Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-11T16:12:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Q7.sh" added="2022-09-11T16:13:19Z" modified="2022-09-11T16:13:19Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-11T16:13:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Q6.sh" added="2022-09-11T16:13:26Z" modified="2022-09-11T16:13:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-11T16:13:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/Sh/Assignment-2.zip" added="2022-09-11T16:27:50Z" modified="2022-09-11T16:27:50Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-11T16:27:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Assignment%204_files.pdf" added="2022-09-13T09:20:01Z" modified="2022-09-13T11:00:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-13T09:20:01Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-13T11:00:53Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2022-09-13T09:20:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q1.sh" added="2022-09-13T09:38:14Z" modified="2022-09-13T09:48:54Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T09:48:54Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-13T09:46:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/ass4.zip" added="2022-09-13T09:44:18Z" modified="2022-09-26T19:33:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-13T09:44:18Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-26T19:33:53Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-09-26T19:33:53Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q2.sh" added="2022-09-13T09:46:50Z" modified="2022-09-13T10:35:51Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T10:35:51Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q3.sh" added="2022-09-13T09:46:55Z" modified="2022-09-13T09:50:24Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T09:50:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q4.sh" added="2022-09-13T09:46:58Z" modified="2022-09-13T09:51:24Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T09:51:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q5.sh" added="2022-09-13T09:47:00Z" modified="2022-09-13T09:47:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T09:47:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q6.sh" added="2022-09-13T09:47:03Z" modified="2022-09-13T09:55:03Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T09:55:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q7.sh" added="2022-09-13T09:47:05Z" modified="2022-09-13T09:47:05Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T09:47:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q8.sh" added="2022-09-13T09:47:09Z" modified="2022-09-13T09:47:09Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T09:47:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q9.sh" added="2022-09-13T09:47:11Z" modified="2022-10-02T04:36:07Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-02T04:36:07Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-02T04:36:06Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q10.sh" added="2022-09-13T09:47:36Z" modified="2022-09-13T09:47:36Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T09:47:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q11.sh" added="2022-09-13T09:47:42Z" modified="2022-09-13T09:47:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T09:47:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q12.sh" added="2022-09-13T09:47:45Z" modified="2022-09-13T09:47:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T09:47:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q13.sh" added="2022-09-13T09:47:47Z" modified="2022-09-13T09:47:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T09:47:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/prog-9.txt" added="2022-09-13T10:16:12Z" modified="2022-09-27T10:11:02Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-27T10:11:02Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/ghj" added="2022-09-13T10:24:57Z" modified="2022-09-27T10:19:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-27T10:19:04Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/pro-2" added="2022-09-13T10:33:35Z" modified="2022-09-27T10:18:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-27T10:18:47Z" count="7"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-27T10:13:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/pro-2.sh" added="2022-09-13T10:34:07Z" modified="2022-09-26T19:39:24Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-26T19:39:23Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-26T19:39:24Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-r01eiJ/ass4/prog-2.sh" added="2022-09-13T10:36:41Z" modified="2022-09-13T10:36:41Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T10:36:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-SEvGUH/ass4/prog-3.sh" added="2022-09-13T10:36:54Z" modified="2022-09-13T10:36:54Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T10:36:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-3F2YlJ/ass4/prog-4.sh" added="2022-09-13T10:38:26Z" modified="2022-09-13T10:38:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T10:38:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-1IAGAJ/ass4/prog-5.sh" added="2022-09-13T10:41:44Z" modified="2022-09-13T10:41:44Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T10:41:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP" added="2022-09-13T10:59:46Z" modified="2022-10-04T09:27:07Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2022-09-13T11:00:23Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-04T09:27:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/prog-2.sh" added="2022-09-13T11:01:30Z" modified="2022-09-13T11:01:30Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T11:01:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/prog-3.sh" added="2022-09-13T11:02:12Z" modified="2022-09-13T11:02:13Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-13T11:02:12Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T11:02:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q14.sh" added="2022-09-13T11:03:32Z" modified="2022-09-27T10:17:49Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-27T10:07:05Z" count="7"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-27T10:17:49Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q15.sh" added="2022-09-13T11:04:27Z" modified="2022-09-27T10:17:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-27T10:17:53Z" count="6"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-26T19:27:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q16.sh" added="2022-09-13T11:04:33Z" modified="2022-09-27T10:17:56Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-27T10:17:56Z" count="5"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-26T19:27:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Q17.sh" added="2022-09-13T11:05:06Z" modified="2022-09-27T10:17:59Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-27T10:17:59Z" count="6"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-26T19:27:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/prog9.txt" added="2022-09-13T11:08:58Z" modified="2022-09-13T11:10:03Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-13T11:08:58Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-13T11:10:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-W2dUVe/ass4/prog-2.sh" added="2022-09-26T19:34:04Z" modified="2022-09-26T19:34:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-26T19:34:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-EhApFe/ass4/txt" added="2022-09-26T19:34:15Z" modified="2022-09-26T19:34:15Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-26T19:34:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/new.txt" added="2022-09-27T10:11:12Z" modified="2022-09-27T10:57:15Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-27T10:17:32Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-27T10:57:15Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/fd" added="2022-09-27T10:11:21Z" modified="2022-09-27T10:19:01Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-27T10:19:01Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/ss.txt" added="2022-09-27T10:15:41Z" modified="2022-11-01T10:35:31Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-01T10:35:31Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-11-01T10:35:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/temp" added="2022-09-27T10:15:50Z" modified="2022-09-27T10:15:51Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-27T10:15:50Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-27T10:15:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003064Server.py" added="2022-09-29T08:52:51Z" modified="2022-09-29T08:52:51Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-29T08:52:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003064Client.py" added="2022-09-29T08:53:51Z" modified="2022-09-29T08:54:01Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-29T08:53:51Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-29T08:54:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/Sh/112003064Client.py" added="2022-09-29T08:55:27Z" modified="2022-09-29T08:55:28Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-09-29T08:55:27Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-29T08:55:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/Sh/112003064Server.py" added="2022-09-29T08:55:32Z" modified="2022-09-29T08:55:32Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-29T08:55:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/Sh/Client.py" added="2022-09-29T08:56:35Z" modified="2022-10-02T04:52:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-02T04:52:44Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-02T04:52:45Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/Sh/Server.py" added="2022-09-29T08:56:41Z" modified="2022-09-29T08:56:41Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-29T08:56:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/client.py" added="2022-09-29T09:14:35Z" modified="2022-09-29T09:14:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-09-29T09:14:35Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-29T09:14:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-10-02%2010-07-51.png" added="2022-10-02T04:37:51Z" modified="2022-10-02T04:38:03Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-10-02T04:37:51Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-02T04:38:02Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-10-02T04:38:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-10-02%2010-10-32.png" added="2022-10-02T04:40:32Z" modified="2022-10-02T04:45:51Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-10-02T04:40:32Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-02T04:45:50Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-10-02T04:45:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-10-02%2010-11-07.png" added="2022-10-02T04:41:07Z" modified="2022-10-02T04:41:07Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-10-02T04:41:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/rq/r1" added="2022-10-02T04:41:44Z" modified="2022-10-02T04:41:44Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-02T04:41:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/rq/r2" added="2022-10-02T04:43:08Z" modified="2022-10-02T04:43:08Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-02T04:43:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/rq/r3" added="2022-10-02T04:43:43Z" modified="2022-10-02T04:43:44Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-02T04:43:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-10-02%2010-14-19.png" added="2022-10-02T04:44:19Z" modified="2022-10-02T04:44:19Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-10-02T04:44:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-10-02%2010-14-45.png" added="2022-10-02T04:44:45Z" modified="2022-10-02T04:44:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-10-02T04:44:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/rq/Assignment-4.zip" added="2022-10-02T04:49:25Z" modified="2022-10-02T04:49:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-02T04:49:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-10-02%2010-29-30.png" added="2022-10-02T04:59:30Z" modified="2022-10-02T04:59:50Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-10-02T04:59:30Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-02T04:59:49Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-10-02T04:59:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/CN/Client-Server.zip" added="2022-10-02T05:01:41Z" modified="2022-10-02T05:01:41Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-02T05:01:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003063.pdf" added="2022-10-02T05:20:28Z" modified="2022-10-02T05:20:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-02T05:20:28Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-02T05:20:46Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2022-10-02T05:20:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003014_Semp_5.zip" added="2022-10-04T09:25:48Z" modified="2022-10-04T09:28:28Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-04T09:25:48Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-04T09:26:02Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-10-04T09:28:28Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/.cache/.fr-d7GijE/112003014_Semp_5/Q1/A1_1.sh" added="2022-10-04T09:26:20Z" modified="2022-10-04T09:26:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-04T09:26:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop" added="2022-10-04T09:28:20Z" modified="2022-10-04T09:28:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-04T09:28:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads" added="2022-10-04T09:28:37Z" modified="2022-10-04T09:28:37Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2022-10-04T09:28:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q1/A1_1.sh" added="2022-10-04T09:29:45Z" modified="2022-10-11T10:35:51Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T10:34:38Z" count="5"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T10:35:51Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q1/contact.csv" added="2022-10-04T09:31:00Z" modified="2022-10-11T09:36:41Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T09:36:21Z" count="9"/>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2022-10-11T09:36:41Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q1/data.vcard.last" added="2022-10-04T09:31:31Z" modified="2022-10-04T09:36:29Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-04T09:36:28Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-04T09:36:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q1/data.vcard" added="2022-10-04T09:37:11Z" modified="2022-10-11T10:03:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/vcard"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T10:03:38Z" count="6"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T09:56:50Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003014_Semp_5/Q1/contact.csv" added="2022-10-04T09:39:32Z" modified="2022-10-04T09:39:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-04T09:39:32Z" count="1"/>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2022-10-04T09:39:42Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/CN/Client.py" added="2022-10-06T07:45:53Z" modified="2022-10-11T11:04:58Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T11:04:57Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T11:04:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/CN/Server.py" added="2022-10-06T07:46:01Z" modified="2022-10-11T11:05:02Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T11:05:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/CN/Untitled%20Document%201" added="2022-10-06T07:57:10Z" modified="2022-10-06T07:57:10Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-06T07:57:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/CN/Serverchat.py" added="2022-10-06T07:57:29Z" modified="2022-10-06T08:02:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-06T08:02:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/CN/clientchat.py" added="2022-10-06T07:58:48Z" modified="2022-10-11T11:04:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T11:04:45Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T11:04:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q2/A1_2.sh" added="2022-10-11T09:42:39Z" modified="2022-10-11T10:36:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T10:36:20Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T10:31:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q2/new.srt" added="2022-10-11T09:42:48Z" modified="2022-10-11T10:04:22Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-subrip"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T09:58:16Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T10:04:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q2/yt_trans.txt" added="2022-10-11T09:42:59Z" modified="2022-10-11T09:42:59Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T09:42:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q3/A1_3.sh" added="2022-10-11T09:43:51Z" modified="2022-10-11T10:11:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T10:11:53Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q3/SampleTextFile_50kb.txt" added="2022-10-11T09:44:14Z" modified="2022-10-11T09:44:14Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T09:44:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q4/A4.sh" added="2022-10-11T09:44:35Z" modified="2022-10-11T09:44:36Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T09:44:35Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T09:44:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q4/new/file2.txt" added="2022-10-11T09:44:45Z" modified="2022-10-11T09:44:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T09:44:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q4/file1.txt" added="2022-10-11T09:44:54Z" modified="2022-10-11T10:05:19Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T10:05:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q4/new/file3.txt" added="2022-10-11T09:45:06Z" modified="2022-10-11T09:45:06Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T09:45:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q4/new/file4.txt" added="2022-10-11T09:45:11Z" modified="2022-10-11T09:45:11Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T09:45:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/Assignment%205.pdf" added="2022-10-11T09:47:20Z" modified="2022-10-11T10:17:36Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-11T09:47:20Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T10:17:36Z" count="3"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2022-10-11T09:47:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q3/last20.txt" added="2022-10-11T09:50:50Z" modified="2022-10-11T10:12:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T10:12:04Z" count="5"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T10:04:52Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q3/sample-2mb-text-file.txt" added="2022-10-11T09:51:03Z" modified="2022-10-11T09:51:03Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T09:51:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q3/sample-text-file.txt" added="2022-10-11T09:51:08Z" modified="2022-10-11T09:51:08Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T09:51:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q4/file2.txt" added="2022-10-11T10:05:23Z" modified="2022-10-11T10:05:23Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T10:05:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q4/file3.txt" added="2022-10-11T10:05:27Z" modified="2022-10-11T10:05:27Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T10:05:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q4/file4.txt" added="2022-10-11T10:05:30Z" modified="2022-10-11T10:05:30Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T10:05:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Q4/A1_4.sh" added="2022-10-11T10:05:42Z" modified="2022-10-11T10:05:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-11T10:05:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/CN/Screenshot%20from%202022-10-02%2010-29-30.png" added="2022-10-11T11:47:44Z" modified="2022-10-11T11:47:46Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-11T11:47:44Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-10-11T11:47:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003063-Server.py" added="2022-10-12T07:00:38Z" modified="2022-10-12T07:05:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-12T07:00:38Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-12T07:05:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/112003063-Client.py" added="2022-10-12T07:00:43Z" modified="2022-10-12T07:00:54Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-12T07:00:43Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-12T07:00:53Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-12T07:00:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/server.py" added="2022-10-12T07:16:42Z" modified="2022-10-12T07:16:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-12T07:16:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Downloads/client(1).py" added="2022-10-12T07:16:43Z" modified="2022-10-12T07:21:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-12T07:16:43Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2022-10-12T07:21:24Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-12T07:21:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/CN/cclient.py" added="2022-10-12T07:40:22Z" modified="2022-10-12T08:29:55Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-12T08:29:55Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/CN/cserver.py" added="2022-10-12T07:41:20Z" modified="2022-10-12T08:24:13Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-10-12T08:24:13Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Assignment-5/Assignment-5.zip" added="2022-10-22T18:07:20Z" modified="2022-10-22T18:07:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-22T18:07:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-11-01%2013-07-50.png" added="2022-11-01T07:37:51Z" modified="2022-11-01T07:37:51Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-11-01T07:37:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-11-01%2013-07-51.png" added="2022-11-01T07:37:52Z" modified="2022-11-01T07:37:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-11-01T07:37:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-11-01%2013-07-52.png" added="2022-11-01T07:37:53Z" modified="2022-11-01T07:37:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-11-01T07:37:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Untitled%201" added="2022-11-01T07:48:42Z" modified="2022-11-01T07:48:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2022-11-01T07:48:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/Untitled%201.odt" added="2022-11-01T07:48:42Z" modified="2022-11-01T07:48:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2022-11-01T07:48:42Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Desktop/SEMP/A6.odt" added="2022-11-01T10:35:37Z" modified="2022-11-01T10:35:37Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2022-11-01T10:35:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

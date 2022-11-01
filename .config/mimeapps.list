@@ -1,0 +1,3 @@
+[Added Associations]
+application/x-shellscript=org.gnome.gedit.desktop;vim.desktop;
+text/csv=libreoffice-calc.desktop;

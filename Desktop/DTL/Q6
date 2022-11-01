@@ -1,0 +1,5 @@
+echo "Your Name:"
+read name
+echo "Your MIS:"
+read MIS
+echo "Your name is $name and Your MIS is $MIS"

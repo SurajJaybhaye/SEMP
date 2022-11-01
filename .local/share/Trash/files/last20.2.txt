@@ -1,0 +1,11 @@
+total 4.0M
+-rw-rw-r-- 1 suraj suraj  2.1M Sep 27 22:44 sample-2mb-text-file.txt
+-rw-rw-r-- 1 suraj suraj 1000K Sep 27 22:44 SampleTextFile_1000kb.txt
+-rw-rw-r-- 1 suraj suraj  500K Sep 27 22:44 SampleTextFile_500kb.txt
+-rw-rw-r-- 1 suraj suraj  200K Sep 27 22:44 SampleTextFile_200kb.txt
+-rw-rw-r-- 1 suraj suraj  100K Sep 27 22:44 SampleTextFile_100kb.txt
+-rw-rw-r-- 1 suraj suraj   50K Sep 27 22:44 SampleTextFile_50kb.txt
+-rw-rw-r-- 1 suraj suraj   20K Sep 27 22:44 SampleTextFile_20kb.txt
+-rw-rw-r-- 1 suraj suraj  9.3K Sep 27 22:44 SampleTextFile_10kb.txt
+-rw-rw-r-- 1 suraj suraj   738 Sep 27 22:44 last20.txt
+-rw-rw-r-- 1 suraj suraj   448 Sep 27 22:44 sample-text-file.txt

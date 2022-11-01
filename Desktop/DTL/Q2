@@ -1,0 +1,2 @@
+xn=Suraj
+echo $xn

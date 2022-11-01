@@ -1,0 +1,7 @@
+total 8.0K
+-rw-rw-r-- 1 suraj suraj 208 Oct 11 15:22 last20.txt
+-rw-rw-r-- 1 suraj suraj  97 Sep 27 22:44 A1_3.sh
+-rw-rw-r-- 1 suraj suraj   0 Oct 11 15:22 a.txt
+-rw-rw-r-- 1 suraj suraj 97 Sep 27 22:44 ./A1_3.sh
+-rw-rw-r-- 1 suraj suraj 213 Oct 11 15:22 ./a.txt
+-rw-rw-r-- 1 suraj suraj 208 Oct 11 15:22 ./last20.txt

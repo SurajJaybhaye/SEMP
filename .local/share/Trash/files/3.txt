@@ -1,0 +1,7 @@
+hi
+
+
+bye^Z
+[2]+ Stopped             cat > 3.txt
+
+
