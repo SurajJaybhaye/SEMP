@@ -3253,4 +3253,34 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-11-01%2016-16-37.png" added="2022-11-01T10:46:37Z" modified="2022-11-01T10:46:37Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-11-01T10:46:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-11-01%2016-16-42.png" added="2022-11-01T10:46:43Z" modified="2022-11-01T10:46:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-11-01T10:46:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suraj/Pictures/Screenshot%20from%202022-11-01%2016-19-26.png" added="2022-11-01T10:49:26Z" modified="2022-11-01T10:49:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-11-01T10:49:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
