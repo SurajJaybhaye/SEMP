@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Terminal.desktop" score="725.875" last-seen="1667299340"/>
+    <application id="org.gnome.Terminal.desktop" score="755.875" last-seen="1667299727"/>
     <application id="org.gnome.Nautilus.desktop" score="53.75" last-seen="1667298950"/>
-    <application id="firefox.desktop" score="17429.125" last-seen="1667299415"/>
+    <application id="firefox.desktop" score="17443.125" last-seen="1667299740"/>
     <application id="rhythmbox.desktop" score="0" last-seen="1667296817"/>
     <application id="yelp.desktop" score="0" last-seen="1667286759"/>
     <application id="thunderbird.desktop" score="0" last-seen="1667298474"/>
